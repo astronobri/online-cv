@@ -3,34 +3,34 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Dr. Brianna Mills
+    tagline: Research Software Engineer & Astrophysicist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@jekyllrb'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
+    email: enerbri@proton.me
+    #phone: 012 345 6789
+    timezone: America/New_York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    #citizenship:
+    website: https://astronobri.github.io/ # Include the full website URL, including "http://" or "https://".
+    linkedin: astronobri
+    #xing: alandoe
+    github: astronobri
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@jekyllrb'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #mastodon:  # Please include your full Mastodon link here.
+    #hackerrank: # Please provide your HackerRank username.
+    #leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
@@ -39,19 +39,19 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
+        #- idiom: French
+         # level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        #- idiom: Spanish
+         # level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Crafting Tabletop Roleplaying Games
           link:
 
-        - item: Snowboarding
+        - item: Writing
           link:
 
         - item: Cooking
@@ -60,119 +60,106 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A classically trained astrophysicist and now research software engineer with 8 years of engineering experience. 
+      Excels at both independent work and a collaborative team setting. Seeking career opportunities in software development at
+      a supportive and forward-thinking company.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Astronomy
+        university: University of Virginia
+        #time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+
+      - degree: MS in Astronomy
+        university: University of Virginia
+        #time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Research Engineer
+        time: 2023 - Present
+        company: National Rural Electric Cooperative Association
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Lead engineer on the design, development, and testing of two cutting-edge DOE-funded software models developed with Python, HTML, and JavaScript. 
+          Ensured high-performance cost-benefit analyses for residential and utility-scale adoption of distributed energy resources (DERs) while enhancing 
+          community resilience strategies.
+          Delivered in-depth weekly reports that captured innovative research methodologies and detailed software progress, significantly contributing to the Open Modeling Framework's repository.
+          Authored key deliverables that provided comprehensive research into distributed energy resource programs across the U.S., influencing strategic decision-making and program development.
+      - role: Energy Modeling Researcher
+        time: 2021 - 2023
+        company: Weldon Cooper Center for Public Service 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Implemented and applied the Regional Energy Deployment System (ReEDS) model to assess the impacts of Virginia’s Clean Economy Act on the regional electricity grid.
+          Specialized in regional and national electricity grid modeling, collaborated with economists and policy experts, conducted in-depth analysis of Virginia's clean 
+          energy policies, developed and optimized Python code, created data visualizations, and gained extensive cross-disciplinary experience.
+      - role: Doctoral Research
+        time: 2018 - 2023
+        company: University of Virginia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Dissertation entitled "Bridging the gap between black hole accretion disk theory and X-ray spectral observations." 
+          Conducted comparative analysis of Monte Carlo post-processed spectra from RMHD simulations of stellar-mass black hole 
+          accretion against observational data from NASA and ESA facilities, leading to the development of cutting-edge, 
+          physically motivated models that accurately describe black hole accretion phenomena.
+          - Python, 
+          - Monte Carlo radiation transfer calculations
+          - Numerical radiation magnetohyrodynamic simulations
+          - Statistical analysis
+          - International collaboration
+          - Proposal/Grant writing
+          - Effective science communication skills
+          - Completed 2 first-authored journal publications
+    
+    - role: Graduate Research Assistant: X-ray Astrophysics Modeling
+        time: 2018 - 2021
+        company: University of Virginia
+        details: |
+          Conducted data reduction of NASA RXTE observations of the black hole X-ray binary GRS 1915+105. Analyzed and constrained the black hole spin parameter, 
+          resolving discrepancies in previous estimates and contributing to the understanding of its astrophysical implications. Published findings in a peer-reviewed journal.
+          Expertise in Python, C++, NASA HEASARC, XSPEC modeling. Achieved a first-authored astrophysical journal publication, engaged in international collaboration, 
+          and delivered public talks to audiences with varying levels of expertise.
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+    - role: Instructor of Record - ASTR 1290 Black Holes course
+        time: 2022
+        company: University of Virginia
+        details: |
+          Led an introductory course for non-science majors, guiding students through the paradoxical nature of black holes and evaluating the astronomical evidence supporting their existence.
+          Expertise in conveying complex astrophysical concepts, creating and executing assessment plans, incorporating real-time student feedback, and managing course timelines.
+    
+    - role: REU Intern - Observational X-ray Astrophysics
+        time: 2017
+        company: University of Wisconsin-Madison
+        details: |
+          Created an X-ray peak finding algorithm to analyze MAXI (JAXA) data for X-ray dust-scattering light echo signatures. 
+          Estimated the occurrence of potential light echoes, contributing to planned and future X-ray missions, and resulting in a journal publication.
+          Proficient in Python, professional journal publication, public presentations, and awarded the AAS Astronomy Achievement Award.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+
+    - role: Undergraduate Research Assistant: Atmospheric Physics
+        time: 2015 - 2016
+        company: University of Louisville
+        details: |
+          Investigated the momentum and energy budgets of atmospheric tides using the extended Canadian Middle Atmosphere Model (eCMAM30).
+          Specialized in atmospheric physics, climate modeling, MATLAB programming, and atmospheric fluid dynamics, with a strong focus on tides and collaborative research.
+
+
+
+#certifications:
+ #     title: Certifications
+  #    list:
+   #     - name: CV Builder
+    #      start: 2020
+     #     end: 2021
+      #    organization: Microsoft
+       #   credentialid: 111-222
+        #  credentialurl: www.google.com
+         # credentialname: Google
+          #details: |
+           # Deta
+
 
 projects:
     title: Projects
@@ -185,84 +172,49 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      List of research publications.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Monte Carlo methods, 2024 in preparation."
+        #link: "#"
+        authors: Davis, S. W., Mills, B., Stone, J., et al.
+        #conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Spectral Calculations of 3D Radiation Magnetohydrodynamic Simulations of Super-Eddington Accretion onto a Stellar-mass Black Hole"
+        link: "https://ui.adsabs.harvard.edu/abs/2023arXiv230407977M/abstract"
+        authors: Mills, B., Davis, S. W., Jiang, Y., and Middleton, M. J.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Bridging the Gap Between Black Hole Accretion Disk Theory and X-Ray Spectral Observations"
+        link: "https://doi.org/10.18130/4s1x-wk43"
+        authors: Mills, Brianna S.
+
+      - title: "The Black Hole Spin in GRS 1915+105, Revisited"
+        link: "https://doi.org/10.3847/1538-4357/abf2b7"
+        authors: Mills, B., Davis, S. W., Middleton, M. J.
+              
+      - title: "The X-Ray Variable Sky as Seen by MAXI: The Future of Dust-echo Tomography with Bright Galactic X-Ray Bursts"
+        link: "https://doi.org/10.3847/1538-4357/ab0c9b"
+        authors: Corrales, L., Mills, B., Heinz, S., Williger, G.
+        
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: HTML5 & CSS
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Javascript & jQuery
+        level: 20%
+
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
